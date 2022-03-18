@@ -1,7 +1,3 @@
-<!DOCTYPE html>
-<html>
-<body>
-
 ### rsschool-cv
 ***
 ## __Michail Konon__
@@ -51,6 +47,3 @@ JavaScript
 ## English
 [Adaptive English test](https://examinator.epam.com/Main/PersonalAssignments/) - A2
 ***
-
-</body>
-</html>
