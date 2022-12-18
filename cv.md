@@ -47,4 +47,6 @@ JavaScript
 ## English
 [Adaptive English test](https://examinator.epam.com/Main/PersonalAssignments/) - A2
 
+[Quick Efset English test](https://www.efset.org/quick-check) - B1/B2
+
 ***
