@@ -18,7 +18,7 @@ _Despite the fact that i have just a basic knowledge i am a truly passionate abo
 ## Skills
 I have basic knowledge about JS, HTML and CSS.
 
-_...for now..._
+_This is My second try in RS School so i have lerned a lot about JavaScript and TypeScript_
 
 ---
 ## Code Example
@@ -46,4 +46,5 @@ JavaScript
 ---
 ## English
 [Adaptive English test](https://examinator.epam.com/Main/PersonalAssignments/) - A2
+
 ***
