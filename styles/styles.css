@@ -28,6 +28,18 @@
     list-style: none
 }
 
+a.footer_item:link,
+a.footer_item:visited {
+  color: rgb(56, 56, 56);
+  text-align: center;
+  text-decoration: none;
+}
+
+a.footer_item:hover,
+a.footer_item:active {
+    color: white;
+}
+
 a.item:link,
 a.item:visited {
   background-color: rgb(121, 121, 121);
