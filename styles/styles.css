@@ -1,0 +1,159 @@
+.body {
+    color: rgb(56, 56, 56);
+    background-color: black;
+    margin: 20px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.title {
+    color: wheat;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgb(61, 61, 61);
+    font-family: 'Roboto', sans-serif;
+    font-style: none;
+    font-weight: 500;
+    line-height: 140%;
+}
+
+
+.navigation_bar {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+    justify-content: center;
+}
+
+.navigation_item {
+    color: wheat;
+    list-style: none
+}
+
+a.footer_item:link,
+a.footer_item:visited {
+  color: rgb(56, 56, 56);
+  text-align: center;
+  text-decoration: none;
+}
+
+a.footer_item:hover,
+a.footer_item:active {
+    color: white;
+}
+
+a.item:link,
+a.item:visited {
+  background-color: rgb(121, 121, 121);
+  color: white;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a.item:hover,
+a.item:active {
+    background-color: wheat;
+}
+
+/* unvisited link */
+a:link {
+    color: red;
+}
+  
+  /* visited link */
+a:visited {
+    color: wheat;
+}
+  
+  /* mouse over link */
+a:hover {
+    color: rgb(255, 255, 255);
+}
+  
+  /* selected link */
+a:active {
+    color: rgb(45, 45, 45);
+}
+
+.image {
+    width: 100%;
+    max-width: 300px;
+    min-width: 250px;
+    height: auto;
+}
+
+.main {
+    background-color: rgb(131, 131, 131);
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.main-weapper {
+    display: flex;
+    flex-direction: row;
+    box-shadow: 0px 0px 10px 2px rgb(255 255 255 / 20%), 0px 0px 5px 3px rgb(255 255 255 / 19%);
+}
+
+.main-left {
+    border-right: 2px solid wheat;
+}
+
+.text {
+    margin: 0 20px;
+}
+
+.tip {
+    font-size: 22px;
+    font-style: none;
+    font-weight: 500;
+    line-height: 140%;
+    margin: 5px 20px;
+}
+
+.tip-sec {
+    margin: 0px;
+    font-style: italic;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 140%;
+}
+
+.code-example {
+    background-color: wheat;
+    display: flex;
+    width: 145px;
+    border-radius: 5%;
+    margin: 0;
+}
+
+.code-container {
+    display: flex;
+    justify-content: center;
+}
+
+.photo_block {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.footer {
+    display: flex;
+    margin-bottom: 20px;
+    height: 120px;
+}
+
+.footer-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+    gap: 50px;
+}
+
+.logo {
+    max-width: 150px;
+    min-width: 120px;
+    -webkit-filter: invert(1);
+   filter: invert(1);
+}
