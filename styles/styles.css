@@ -57,7 +57,7 @@ a.item:active {
 
 /* unvisited link */
 a:link {
-    color: red;
+    color: wheat;
 }
   
   /* visited link */
@@ -98,7 +98,17 @@ a:active {
     border-right: 2px solid wheat;
 }
 
+.text-about {
+    margin: 0 20px;
+}
+
 .text {
+    margin: 0 20px;
+    font-style: italic;
+}
+
+.text-title {
+    font-weight: 500;
     margin: 0 20px;
 }
 
